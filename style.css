@@ -1,0 +1,13 @@
+main {
+background-color: royalblue;
+}
+
+main h1 {
+    text-align:center;
+    font-size:60px
+}
+
+main a {
+    text-decoration:none;
+    color: antiquewhite;
+}
